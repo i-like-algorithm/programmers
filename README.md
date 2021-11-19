@@ -1,6 +1,6 @@
 # programmers 문제 풀이 스터디 (121문제)
 
-![Progress](https://progress-bar.dev/42/?title=done&scale=100&width=300)
+![Progress](https://progress-bar.dev/44/?title=done&scale=100&width=300)
 
 # 2단계 (66문제)
 
@@ -46,7 +46,7 @@
 ---
 
 ## 2단계 기출 문제(39문제)
-![Progress](https://progress-bar.dev/62/?title=done&scale=100&width=100)
+![Progress](https://progress-bar.dev/67/?title=done&scale=100&width=100)
 | 날짜     | 문제                  | -   |
 | -------- | --------------------- | --- |
 | 21.10.19 | 문자열 압축           | ✅  |
