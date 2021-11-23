@@ -1,6 +1,6 @@
 # programmers 문제 풀이 스터디 (121문제)
 
-![Progress](https://progress-bar.dev/44/?title=done&scale=100&width=300)
+![Progress](https://progress-bar.dev/45/?title=done&scale=100&width=300)
 
 # 2단계 (66문제)
 
@@ -46,7 +46,7 @@
 ---
 
 ## 2단계 기출 문제(39문제)
-![Progress](https://progress-bar.dev/67/?title=done&scale=100&width=100)
+![Progress](https://progress-bar.dev/72/?title=done&scale=100&width=100)
 | 날짜     | 문제                  | -   |
 | -------- | --------------------- | --- |
 | 21.10.19 | 문자열 압축           | ✅  |
@@ -77,8 +77,8 @@
 | 21.11.17 | 모음사전       |  ✅  |
 | 21.11.18 | 교점에 별 만들기       |  ✅  |
 | 21.11.19 | 전력망을 둘로 나누기       |  ✅  |
-| 21.11.22 | [1차] 캐시            |     |
-| 21.11.22 | 이진 변환 반복하기    |     |
+| 21.11.22 | [1차] 캐시            |   ✅  |
+| 21.11.22 | 이진 변환 반복하기    |   ✅  |
 | 21.11.23 | 점프와 순간 이동      |     |
 | 21.11.24 | n^2 배열 자르기      |     |
 | 21.11.25 | 쿼드압축 후 개수 세기 |     |
