@@ -1,6 +1,6 @@
 # programmers 문제 풀이 스터디 (121문제)
 
-![Progress](https://progress-bar.dev/45/?title=done&scale=100&width=300)
+![Progress](https://progress-bar.dev/47/?title=done&scale=100&width=300)
 
 # 2단계 (66문제)
 
@@ -46,7 +46,7 @@
 ---
 
 ## 2단계 기출 문제(39문제)
-![Progress](https://progress-bar.dev/72/?title=done&scale=100&width=100)
+![Progress](https://progress-bar.dev/77/?title=done&scale=100&width=100)
 | 날짜     | 문제                  | -   |
 | -------- | --------------------- | --- |
 | 21.10.19 | 문자열 압축           | ✅  |
@@ -81,8 +81,8 @@
 | 21.11.22 | 이진 변환 반복하기    |   ✅  |
 | 21.11.23 | 점프와 순간 이동      |     |
 | 21.11.24 | n^2 배열 자르기      |     |
-| 21.11.25 | 쿼드압축 후 개수 세기 |     |
-| 21.11.26 | 스킬트리              |     |
+| 21.11.25 | 쿼드압축 후 개수 세기 |  ✅  |
+| 21.11.26 | 스킬트리              |  ✅  |
 | 21.11.29 | 방문 길이             |     |
 | 21.11.29 | [3차] 방금그곡        |     |
 | 21.11.30 | [3차] 압축            |     |
