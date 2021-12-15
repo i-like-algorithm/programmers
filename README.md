@@ -1,6 +1,6 @@
 # programmers 문제 풀이 스터디 (121문제)
 
-![Progress](https://progress-bar.dev/51/?title=done&scale=100&width=300)
+![Progress](https://progress-bar.dev/56/?title=done&scale=100&width=300)
 
 # 2단계 (66문제)
 
@@ -94,18 +94,18 @@
 # 3단계 (55문제)
 
 ## 3단계 연습문제(9문제)
-![Progress](https://progress-bar.dev/0/?title=done&scale=100&width=100)
+![Progress](https://progress-bar.dev/56/?title=done&scale=100&width=100)
 | 날짜     | 문제             | -   |
 | -------- | ---------------- | --- |
-| 21.12.3 | 2 x n 타일링     |  ✅  |
-| 21.12.6  | 가장 긴 팰린드롬 |  ✅  |
-| 21.12.6  | 거스름돈         |  💥  |
-| 21.12.7  | 멀리 뛰기        |  ✅  |
-| 21.12.8  | 야근 지수        |    |
-| 21.12.9  | 줄 서는 방법     |     |
-| 21.12.10  | 최고의 집합      |     |
-| 21.12.13  | 하노이의 탑      |     |
-| 21.12.13  | N-Queen          |     |
+| 21.12.3 | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900?language=cpp)     |  ✅  |
+| 21.12.6  | [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904?language=cpp) |  ✅  |
+| 21.12.6  | [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907?language=cpp)         |  💥  |
+| 21.12.7  | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914?language=cpp)        |  ✅  |
+| 21.12.8  | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927?language=cpp)        |  ✅ |
+| 21.12.9  | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936?language=cpp)     |  💥  |
+| 21.12.10  | [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938?language=cpp)      |  ✅  |
+| 21.12.13  | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946?language=cpp)      |     |
+| 21.12.13  | [N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952?language=cpp)          |     |
 
 ---
 
@@ -113,7 +113,7 @@
 ![Progress](https://progress-bar.dev/0/?title=done&scale=100&width=100)
 | 날짜     | 주제       | 문제            | -   |
 | -------- | ---------- | --------------- | --- |
-| 21.12.14 | 동적계획법 | N으로 표현      |
+| 21.12.14 | 동적계획법 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp)      |
 | 21.12.15 | 동적계획법 | 정수 삼각형     |
 | 21.12.16 | 동적계획법 | 등굣길          |
 | 21.12.17 | 이분탐색   | 입국심사        |
