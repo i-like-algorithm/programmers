@@ -1,6 +1,6 @@
 # programmers 문제 풀이 스터디 (121문제)
 
-![Progress](https://progress-bar.dev/56/?title=done&scale=100&width=300)
+![Progress](https://progress-bar.dev/59/?title=done&scale=100&width=300)
 
 # 2단계 (66문제)
 
@@ -94,7 +94,7 @@
 # 3단계 (55문제)
 
 ## 3단계 연습문제(9문제)
-![Progress](https://progress-bar.dev/56/?title=done&scale=100&width=100)
+![Progress](https://progress-bar.dev/78/?title=done&scale=100&width=100)
 | 날짜     | 문제             | -   |
 | -------- | ---------------- | --- |
 | 21.12.3 | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900?language=cpp)     |  ✅  |
@@ -104,29 +104,29 @@
 | 21.12.8  | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927?language=cpp)        |  ✅ |
 | 21.12.9  | [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936?language=cpp)     |  💥  |
 | 21.12.10  | [최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938?language=cpp)      |  ✅  |
-| 21.12.13  | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946?language=cpp)      |     |
-| 21.12.13  | [N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952?language=cpp)          |     |
+| 21.12.13  | [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946?language=cpp)      |  ✅  |
+| 21.12.13  | [N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952?language=cpp)          |   ✅  |
 
 ---
 
 ## 3단계 주제 문제(14문제)
-![Progress](https://progress-bar.dev/0/?title=done&scale=100&width=100)
+![Progress](https://progress-bar.dev/7/?title=done&scale=100&width=100)
 | 날짜     | 주제       | 문제            | -   |
 | -------- | ---------- | --------------- | --- |
-| 21.12.14 | 동적계획법 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp)      |
-| 21.12.15 | 동적계획법 | 정수 삼각형     |
-| 21.12.16 | 동적계획법 | 등굣길          |
-| 21.12.17 | 이분탐색   | 입국심사        |
-| 21.12.20 | 그래프     | 가장 먼 노드    |
-| 21.12.20 | 그래프     | 순위            |
-| 21.12.21 | 힙         | 디스크 컨트롤러 |
-| 21.12.22 | 힙         | 이중우선순위큐  |
-| 21.12.23 | DFS/BFS    | 네트워크        |
-| 21.12.24 | DFS/BFS    | 단어 변환       |
-| 21.12.27 | DFS/BFS    | 여행경로        |
-| 21.12.27 | 해시       | 베스트앨범      |
-| 21.12.28 | 탐욕법     | 섬 연결하기     |
-| 21.12.29 | 탐욕법     | 단속카메라      |
+| 21.12.14 | 동적계획법 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp)      |💥|
+| 21.12.15 | 동적계획법 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=cpp)     |✅|
+| 21.12.16 | 동적계획법 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898?language=cpp)          ||
+| 21.12.17 | 이분탐색   | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238?language=cpp)        ||
+| 21.12.20 | 그래프     | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189?language=cpp)    ||
+| 21.12.20 | 그래프     | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191?language=cpp)            ||
+| 21.12.21 | 힙         | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627?language=cpp) ||
+| 21.12.22 | 힙         | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628?language=cpp)  ||
+| 21.12.23 | DFS/BFS    | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=cpp)        ||
+| 21.12.24 | DFS/BFS    | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=cpp)       ||
+| 21.12.27 | DFS/BFS    | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164?language=cpp)        ||
+| 21.12.27 | 해시       | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579?language=cpp)      ||
+| 21.12.28 | 탐욕법     | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861?language=cpp)     ||
+| 21.12.29 | 탐욕법     | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884?language=cpp)      ||
 
 ---
 
