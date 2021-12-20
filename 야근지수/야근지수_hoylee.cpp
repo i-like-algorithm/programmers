@@ -2,7 +2,7 @@
 #include <vector>
 #include <queue> 
 using namespace std;
- 
+  
 void wekly_work(int &n, priority_queue<long long> &pq)
 {
     while(n != 0 && !(pq.empty()))
