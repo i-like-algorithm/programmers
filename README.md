@@ -115,8 +115,8 @@
 | -------- | ---------- | --------------- | --- |
 | 21.12.14 | 동적계획법 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp)      |💥|
 | 21.12.15 | 동적계획법 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=cpp)     |✅|
-| 21.12.16 | 동적계획법 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898?language=cpp)          ||
-| 21.12.17 | 이분탐색   | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238?language=cpp)        ||
+| 21.12.16 | 동적계획법 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898?language=cpp)          |✅|
+| 21.12.17 | 이분탐색   | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238?language=cpp)        |💥|
 | 21.12.20 | 그래프     | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189?language=cpp)    ||
 | 21.12.20 | 그래프     | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191?language=cpp)            ||
 | 21.12.21 | 힙         | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627?language=cpp) ||
