@@ -1,6 +1,6 @@
 # programmers 문제 풀이 스터디 (121문제)
 
-![Progress](https://progress-bar.dev/60/?title=done&scale=100&width=300)
+![Progress](https://progress-bar.dev/62/?title=done&scale=100&width=300)
 
 # 1단계 (54문제)
 
