@@ -1,6 +1,6 @@
 # programmers 문제 풀이 스터디 (121문제)
 
-![Progress](https://progress-bar.dev/62/?title=done&scale=100&width=300)
+![Progress](https://progress-bar.dev/64/?title=done&scale=100&width=300)
 
 # 1단계 (54문제)
 
@@ -192,7 +192,7 @@
 
 ## 3단계 주제 문제(14문제)
 
-![Progress](https://progress-bar.dev/21/?title=done&scale=100&width=100)
+![Progress](https://progress-bar.dev/50/?title=done&scale=100&width=100)
 | 날짜 | 주제 | 문제 | - |
 | -------- | ---------- | --------------- | --- |
 | 21.12.14 | 동적계획법 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp) |💥|
