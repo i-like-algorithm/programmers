@@ -16,6 +16,7 @@
 
 ## 레벨1 연습문제(30문제)
 
+![Progress](https://progress-bar.dev/0/?title=done&scale=100&width=100)
 | 날짜 | 문제                                                                                                  | -   |
 | ---- | ----------------------------------------------------------------------------------------------------- | --- |
 |      | [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901?language=cpp)                       |     |
@@ -53,6 +54,7 @@
 
 ## 레벨1 주제 문제(4문제)
 
+![Progress](https://progress-bar.dev/0/?title=done&scale=100&width=100)
 | 날짜 | 문제                                                                                        | -   |
 | ---- | ------------------------------------------------------------------------------------------- | --- |
 |      | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=cpp) |     |
@@ -64,6 +66,7 @@
 
 ## 레벨1 기출 문제(20문제)
 
+![Progress](https://progress-bar.dev/0/?title=done&scale=100&width=100)
 | 날짜 | 문제                                                                                                  | -   |
 | ---- | ----------------------------------------------------------------------------------------------------- | --- |
 |      | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484?language=cpp) |     |
@@ -96,43 +99,43 @@
 ## 레벨2 연습문제(12문제)
 
 ![Progress](https://progress-bar.dev/100/?title=done&scale=100&width=100)
-| 날짜 | 문제 | - |
-| ------- | ----------------------- | --- |
-| 21.9.13 | 124나라의 숫자 | ✅ |
-| 21.9.14 | 가장 큰 정사각형 찾기 | ✅ |
-| 21.9.15 | 올바른 괄호 | ✅ |
-| 21.9.16 | 다음 큰 숫자 | ✅ |
-| 21.9.17 | 땅따먹기 | ✅ |
-| 21.9.23 | 숫자의 표현 | ✅ |
-| 21.9.24 | 최댓값과 최솟값 | ✅ |
-| 21.9.27 | 최솟값 만들기 | ✅ |
-| 21.9.28 | 피보나치 수 | ✅ |
-| 21.9.29 | 행렬의 곱셈 | ✅ |
-| 21.9.30 | JadenCase 문자열 만들기 | ✅ |
-| 21.10.1 | N개의 최소공배수 | ✅ |
+| 번호 | 문제 | 1차 공격 | 2차 공격 |
+| ------- | ----------------------- | - | - |
+| 1 | [124나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=cpp) | ✅ 21.09.13 | ✅ 22.03.06 |
+| 2 | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905?language=cpp) | ✅ 21.09.14 | ✅ 22.03.06 |
+| 3 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=cpp) | ✅ 21.09.15 | ✅ 22.03.06 |
+| 4 | [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=cpp) | ✅ 21.09.16 | ✅ 22.03.06 |
+| 5 | [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913?language=cpp) | ✅ 21.09.17 | ✅ 22.03.06 |
+| 6 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924?language=cpp) | ✅ 21.09.23 | ✅ 22.03.06 |
+| 7 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939?language=cpp) | ✅ 21.09.24 | ✅ 22.03.06 |
+| 8 | [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941?language=cpp) | ✅ 21.09.27 | ✅ 22.03.06 |
+| 9 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=cpp) | ✅ 21.09.28 | ✅ 22.03.06 |
+| 10 | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949?language=cpp) | ✅ 21.09.29 | ✅ 22.03.06 |
+| 11 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951?language=cpp) | ✅ 21.9.30 | ✅ 22.03.06 |
+| 12 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=cpp) | ✅ 21.10.01 | ✅ 22.03.06 |
 
 ---
 
 ## 레벨2 주제 문제(15문제)
 
 ![Progress](https://progress-bar.dev/100/?title=done&scale=100&width=100)
-| 날짜 | 주제 | 문제 | - |
-| -------- | -------- | ------------------ | --- |
-| 21.10.1 | 스택/큐 | 기능개발 | ✅ |
-| 21.10.4 | 스택/큐 | 프린터 | ✅ |
-| 21.10.4 | 스택/큐 | 다리를 지나는 트럭 | ✅ |
-| 21.10.5 | 스택/큐 | 주식가격 | ✅ |
-| 21.10.6 | 힙 | 더 맵게 | ✅ |
-| 21.10.7 | DFS/BFS | 타겟 넘버 | ✅ |
-| 21.10.8 | 해시 | 전화번호 목록 | ✅ |
-| 21.10.11 | 해시 | 위장 | ✅ |
-| 21.10.11 | 정렬 | 가장 큰 수 | ✅ |
-| 21.10.12 | 정렬 | H-Index | ✅ |
-| 21.10.13 | 완전탐색 | 소수 찾기 | ✅ |
-| 21.10.14 | 완전탐색 | 카펫 | ✅ |
-| 21.10.15 | 탐욕법 | 조이스틱 | ✅ |
-| 21.10.18 | 탐욕법 | 큰 수 만들기 | ✅ |
-| 21.10.18 | 탐욕법 | 구명보트 | ✅ |
+| 번호 | 주제 | 문제 | 1차 공격 | 2차 공격 |
+| -------- | -------- | ------------------ | --- | - |
+| 13 | 스택/큐 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=cpp) | ✅ 21.10.1 |
+| 14 | 스택/큐 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=cpp) | ✅ 21.10.4 |
+| 15 | 스택/큐 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=cpp) | ✅ 21.10.4 |
+| 16 | 스택/큐 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=cpp) | ✅ 21.10.5 |
+| 17 | 힙 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626?language=cpp) | ✅ 21.10.6 |
+| 18 | DFS/BFS | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=cpp) | ✅ 21.10.7 |
+| 19 | 해시 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577?language=cpp) | ✅ 21.10.8 |
+| 20 | 해시 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=cpp) | ✅ 21.10.11 |
+| 21 | 정렬 | 가장 큰 수 | ✅ 21.10.11 |
+| 22 | 정렬 | H-Index | ✅ 21.10.12 |
+| 23 | 완전탐색 | 소수 찾기 | ✅ 21.10.13 |
+| 24 | 완전탐색 | 카펫 | ✅ 21.10.14 |
+| 25 | 탐욕법 | 조이스틱 | ✅ 21.10.15 |
+| 26 | 탐욕법 | 큰 수 만들기 | ✅ 21.10.18 |
+| 27 | 탐욕법 | 구명보트 | ✅ 21.10.18 |
 
 ---
 
