@@ -144,45 +144,45 @@
 ![Progress](https://progress-bar.dev/90/?title=done&scale=100&width=100)
 | 번호 | 문제 | 1차 공격 | 2차 공격 |
 | -------- | --------- | --- | - |
-| 28 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057?language=cpp) | ✅ 21.10.19 | |
-| 29 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=cpp) | ✅ 21.10.20 | |
-| 30 | [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829?language=cpp) | ✅ 21.10.21| |
-| 31 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835?language=cpp) | ✅ 21.10.22| |
-| 32 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048?language=cpp) | ✅ 21.10.25| |
-| 33 | 짝지어 제거하기 | ✅ 21.10.25| |
-| 34 | 행렬 테두리 회전하기 | ✅ 21.10.26| |
-| 35 | 메뉴 리뉴얼 | ✅ 21.10.27| |
-| 36 | 괄호 변환 | ✅ 21.10.28| |
-| 37 | 뉴스 클러스터링 | ✅ 21.10.29| |
-| 38 | 거리두기 확인하기 | ✅ 21.11.01 | |
-| 39 | 수식 최대화 | ✅ 21.11.01 | |
-| 40 | 튜플 | ✅ 21.11.02 | |
-| 41 | 빛의 경로 사이클 | ✅ 21.11.03 | |
-| | 게임 맵 최단거리 | ✅ 21.11.04 | |
-| | 예상 대진표 | ✅ 21.11.05 | |
-| | 순위 검색 | 💥 21.11.08 | |
-| | 후보키 | 💥 21.11.08 | |
-| | 괄호 회전하기 | ✅ 21.11.09 | |
-|  | 배달 | ✅ 21.11.10| |
-|  | 프렌즈4블록 | ✅ 21.11.11| |
-|  | 2개 이하로 다른 비트 | ✅ 21.11.12| |
-|  | 삼각 달팽이 | ✅ 21.11.15| |
-|  | 영어 끝말잇기 | ✅ 21.11.15| |
-|  | 피로도 | ✅ 21.11.16| |
-|  | 모음사전 | ✅ 21.11.17| |
-|  | 교점에 별 만들기 | ✅ 21.11.18| |
-|  | 전력망을 둘로 나누기 | ✅ 21.11.19| |
-|  | [1차] 캐시 | ✅ 21.11.22| |
-|  | 이진 변환 반복하기 | ✅ 21.11.22| |
-|  | 점프와 순간 이동 | ✅ 21.11.23| |
-|  | n^2 배열 자르기 | ✅ 21.11.24| |
-|  | 쿼드압축 후 개수 세기 | ✅ 21.11.25| |
-|  | 스킬트리 | ✅ 21.11.26| |
-|  | 방문 길이 | ✅ 21.11.29| |
-|  | [3차] 방금그곡 | 💥 21.11.29| |
-|  | [3차] 압축 | ✅ 21.11.30| |
-| | [3차] 파일명 정렬 | ✅ 21.12.01 | |
-| | [3차] n진수 게임 | ✅ 21.12.02 | |
+| 28 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057?language=cpp) | ✅ 21.10.19 | ✅ 22.03.21 |
+| 29 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=cpp) | ✅ 21.10.20 | ✅ 22.03.21 |
+| 30 | [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829?language=cpp) | ✅ 21.10.21| ✅ 22.03.21 |
+| 31 | [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835?language=cpp) | ✅ 21.10.22| ✅ 22.03.21 |
+| 32 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048?language=cpp) | ✅ 21.10.25| ✅ 22.03.21 |
+| 33 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973?language=cpp) | ✅ 21.10.25| ✅ 22.03.21 |
+| 34 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485?language=cpp) | ✅ 21.10.26| ✅ 22.03.21 |
+| 35 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411?language=cpp) | ✅ 21.10.27| ✅ 22.03.21 |
+| 36 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058?language=cpp) | ✅ 21.10.28| ✅ 22.03.21 |
+| 37 | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677?language=cpp) | ✅ 21.10.29| ✅ 22.03.21 |
+| 38 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302?language=cpp) | ✅ 21.11.01 | ✅ 22.03.22 |
+| 39 | [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257?language=cpp) | ✅ 21.11.01 | ✅ 22.03.22 |
+| 40 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=cpp) | ✅ 21.11.02 | ✅ 22.03.22 |
+| 41 | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052?language=cpp) | ✅ 21.11.03 | 💥 22.03.22 |
+| 42 | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844?language=cpp) | ✅ 21.11.04 | ✅ 22.03.22 |
+| 43 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985?language=cpp) | ✅ 21.11.05 | ✅ 22.03.22 |
+| 44 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412?language=cpp) | 💥 21.11.08 | 💥 22.03.22 |
+| 45 | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890?language=cpp) | 💥 21.11.08 | 💥 22.03.22 |
+| 46 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502?language=cpp) | ✅ 21.11.09 | ✅ 22.03.22 |
+| 47 | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978?language=cpp) | ✅ 21.11.10| 💥 22.03.22 |
+| 48 | [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679?language=cpp) | ✅ 21.11.11| ✅ 22.03.22 |
+| 49 | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885?language=cpp) | 💥 21.11.12| 💥 22.03.22 |
+| 50 | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645?language=cpp) | ✅ 21.11.15| |
+| 51 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981?language=cpp) | ✅ 21.11.15| |
+| 52 | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946?language=cpp) | ✅ 21.11.16| |
+| 53 | [모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512?language=cpp) | ✅ 21.11.17| |
+| 54 | [교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377?language=cpp) | ✅ 21.11.18| |
+| 55 | [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971?language=cpp) | ✅ 21.11.19| |
+| 56 | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680?language=cpp) | ✅ 21.11.22| |
+| 57 | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129?language=cpp) | ✅ 21.11.22| |
+| 58 | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980?language=cpp) | ✅ 21.11.23| |
+| 59 | [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390?language=cpp) | ✅ 21.11.24| |
+| 60 | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936?language=cpp) | ✅ 21.11.25| |
+| 61 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993?language=cpp) | ✅ 21.11.26| |
+| 62 | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994?language=cpp) | ✅ 21.11.29| |
+| 63 | [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683?language=cpp) | 💥 21.11.29| |
+| 64 | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684?language=cpp) | ✅ 21.11.30| |
+| 65 | [[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686?language=cpp) | ✅ 21.12.01 | |
+| 66 | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687?language=cpp) | ✅ 21.12.02 | |
 
 ---
 
